@@ -1,4 +1,4 @@
-## Presenstations I made for MeetUPs in Mufix Community
+## Mufix meetups presentations
 
 
 *  [Awareness Presentation which talks about Security Awareness.](https://github.com/iNightjar/MUFIX-Meetups-Presentations/blob/master/Awareness.pdf?raw=true)
